@@ -1,0 +1,80 @@
+h1   {
+     font-family: 'sansita swashed', cursive;
+     font-size: 35px;
+     text-align:center;
+     text-decoration: underline;
+}
+h1{
+    color: lightblue
+}
+
+p {
+color:blue;
+}
+.class-2 p {
+    color:lime;
+}
+
+.class-1 li.entrees {
+    color: red;
+    font-size: 18px 
+}
+.class-1 h2.entrees {
+    font-family: 'sansita swashed', cursive;
+    font-size: 28px;
+    color: darkred;
+}
+.class-2 h2.appatizers {
+    font-family: 'sansita swashed', cursive;
+    font-size: 28px;
+    color: green;
+}
+.class-2 li.appatizers {
+    font-size: 18px;
+    color: green;
+}
+.class-3 h2.desserts {
+    font-family: 'sansita swashed', cursive;
+    font-size: 28px;
+    color: blue;
+}
+.class-3 li.desserts {
+    font-size: 18px;
+    color: blue;
+}
+.class-4 h2.drinks {
+    font-family: 'sansita swashed', cursive;
+    font-size: 28px;
+    color: orange;
+}
+.class-4 li.drinks {
+    font-size: 18px;
+    color: orange;
+}
+body {
+    background-color: #E4F9F5
+
+}
+* {
+    margin: 4;
+    padding: 4;
+}
+.healthy{
+    width: 100vw;
+    height:50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+  
+}
+.img {
+
+   margin-right: 98px
+   
+}
+p.hello {
+    text-align: center;
+	color: grey;
+	font-style: cursive
+}
